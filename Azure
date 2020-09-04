@@ -3,11 +3,11 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "rgName": {
-      "defaultValue": "JpeGerpP0Rgp000",
+      "defaultValue": "myrg",
       "type": "string"
     },
     "rgLocation": {
-     "defaultValue": "Japan East",
+     "defaultValue": "East US",
       "type": "string"
     }
   },
